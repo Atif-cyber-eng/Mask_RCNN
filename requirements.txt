@@ -1,11 +1,10 @@
-streamlit==1.22.0
+streamlit==1.32.2
 numpy
 Pillow
 matplotlib
 scikit-image
 gdown
-tensorflow==1.15.5
-keras==2.3.1
-h5py==2.10.0
-imgaug==0.4.0
-git+https://github.com/matterport/Mask_RCNN.git
+opencv-python-headless
+tensorflow==2.12.0
+keras==2.12.0
+git+https://github.com/akTwelve/Mask_RCNN.git
