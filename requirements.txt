@@ -1,10 +1,10 @@
-streamlit==1.32.2
-numpy
-Pillow
+streamlit==1.33.0
+tensorflow==2.12.0
+keras==2.12.0
+numpy==1.23.5
 matplotlib
 scikit-image
 gdown
+Pillow
 opencv-python-headless
-tensorflow==2.12.0
-keras==2.12.0
 git+https://github.com/akTwelve/Mask_RCNN.git
